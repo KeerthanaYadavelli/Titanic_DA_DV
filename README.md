@@ -1,2 +1,4 @@
 # Titanic_DA_DV
-Data analysis &amp; data visualization 
+Data Analysis &amp; Data Visualization of Titanic dataset
+In this Data analysis & data visualization using Python libraries like Matplotlib, Pandas and Seaborn.
+I take up the Titanic Survival Dataset of the Data Analysis Series and plotted various graphs like Countplot, Barplot, Scatter plot, KDEplot & Heatmap among others.
